@@ -1,5 +1,5 @@
 
-# Dindin - Banco Digital
+# Banco Digital
 
 - Cadastrar Usuário
 - Fazer Login 
@@ -17,7 +17,7 @@
 
 ## **Banco de dados**
 
- Banco de Dados PostgreSQL chamado `dindin` contendo as seguintes tabelas e colunas:  
+ Banco de Dados PostgreSQL contém as seguintes tabelas e colunas:  
 
 
 - usuarios
